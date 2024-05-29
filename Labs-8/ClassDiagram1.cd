@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Labs_8_2_.Article">
+    <Position X="7" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAIABAIAABAAFlABAAAAAAAAAAIAAAAAEAAgAAAA=</HashCode>
+      <FileName>Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labs_8_2_.ArticleElectronicEdition">
+    <Position X="0.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAACAAEwACBAAEAAASAAIAIAgAIAAAAAAA=</HashCode>
+      <FileName>ArticleElectronicEdition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labs_8_2_.ArticleNewspaper">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAEgBAAAAACAAAAAIAQAAAAAAAQAAA=</HashCode>
+      <FileName>ArticleNewspaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
